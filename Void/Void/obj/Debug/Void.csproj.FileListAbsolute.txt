@@ -1,0 +1,8 @@
+C:\Users\micji\OneDrive\Desktop\C#\Void\Void\bin\Debug\Void.exe.config
+C:\Users\micji\OneDrive\Desktop\C#\Void\Void\bin\Debug\Void.exe
+C:\Users\micji\OneDrive\Desktop\C#\Void\Void\bin\Debug\Void.pdb
+C:\Users\micji\OneDrive\Desktop\C#\Void\Void\obj\Debug\Void.csproj.AssemblyReference.cache
+C:\Users\micji\OneDrive\Desktop\C#\Void\Void\obj\Debug\Void.csproj.CoreCompileInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\Void\Void\obj\Debug\Void.exe
+C:\Users\micji\OneDrive\Desktop\C#\Void\Void\obj\Debug\Void.pdb
+C:\Users\micji\OneDrive\Desktop\C#\Void\Void\obj\Debug\Void.exe.config

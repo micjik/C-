@@ -1,0 +1,8 @@
+C:\Users\micji\OneDrive\Desktop\C#\ArraySort\ArraySort\obj\Debug\ArraySort.csproj.AssemblyReference.cache
+C:\Users\micji\OneDrive\Desktop\C#\ArraySort\ArraySort\obj\Debug\ArraySort.csproj.CoreCompileInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\ArraySort\ArraySort\bin\Debug\ArraySort.exe.config
+C:\Users\micji\OneDrive\Desktop\C#\ArraySort\ArraySort\bin\Debug\ArraySort.exe
+C:\Users\micji\OneDrive\Desktop\C#\ArraySort\ArraySort\bin\Debug\ArraySort.pdb
+C:\Users\micji\OneDrive\Desktop\C#\ArraySort\ArraySort\obj\Debug\ArraySort.exe
+C:\Users\micji\OneDrive\Desktop\C#\ArraySort\ArraySort\obj\Debug\ArraySort.pdb
+C:\Users\micji\OneDrive\Desktop\C#\ArraySort\ArraySort\obj\Debug\ArraySort.exe.config

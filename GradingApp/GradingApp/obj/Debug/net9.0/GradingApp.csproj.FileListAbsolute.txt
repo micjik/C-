@@ -1,0 +1,15 @@
+C:\Users\micji\OneDrive\Desktop\C#\GradingApp\GradingApp\bin\Debug\net9.0\GradingApp.exe
+C:\Users\micji\OneDrive\Desktop\C#\GradingApp\GradingApp\bin\Debug\net9.0\GradingApp.deps.json
+C:\Users\micji\OneDrive\Desktop\C#\GradingApp\GradingApp\bin\Debug\net9.0\GradingApp.runtimeconfig.json
+C:\Users\micji\OneDrive\Desktop\C#\GradingApp\GradingApp\bin\Debug\net9.0\GradingApp.dll
+C:\Users\micji\OneDrive\Desktop\C#\GradingApp\GradingApp\bin\Debug\net9.0\GradingApp.pdb
+C:\Users\micji\OneDrive\Desktop\C#\GradingApp\GradingApp\obj\Debug\net9.0\GradingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micji\OneDrive\Desktop\C#\GradingApp\GradingApp\obj\Debug\net9.0\GradingApp.AssemblyInfoInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\GradingApp\GradingApp\obj\Debug\net9.0\GradingApp.AssemblyInfo.cs
+C:\Users\micji\OneDrive\Desktop\C#\GradingApp\GradingApp\obj\Debug\net9.0\GradingApp.csproj.CoreCompileInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\GradingApp\GradingApp\obj\Debug\net9.0\GradingApp.sourcelink.json
+C:\Users\micji\OneDrive\Desktop\C#\GradingApp\GradingApp\obj\Debug\net9.0\GradingApp.dll
+C:\Users\micji\OneDrive\Desktop\C#\GradingApp\GradingApp\obj\Debug\net9.0\refint\GradingApp.dll
+C:\Users\micji\OneDrive\Desktop\C#\GradingApp\GradingApp\obj\Debug\net9.0\GradingApp.pdb
+C:\Users\micji\OneDrive\Desktop\C#\GradingApp\GradingApp\obj\Debug\net9.0\GradingApp.genruntimeconfig.cache
+C:\Users\micji\OneDrive\Desktop\C#\GradingApp\GradingApp\obj\Debug\net9.0\ref\GradingApp.dll

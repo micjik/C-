@@ -1,0 +1,7 @@
+C:\Users\micji\OneDrive\Desktop\C#\Angle\Angle\bin\Debug\Angle.exe.config
+C:\Users\micji\OneDrive\Desktop\C#\Angle\Angle\bin\Debug\Angle.exe
+C:\Users\micji\OneDrive\Desktop\C#\Angle\Angle\bin\Debug\Angle.pdb
+C:\Users\micji\OneDrive\Desktop\C#\Angle\Angle\obj\Debug\Angle.csproj.AssemblyReference.cache
+C:\Users\micji\OneDrive\Desktop\C#\Angle\Angle\obj\Debug\Angle.csproj.CoreCompileInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\Angle\Angle\obj\Debug\Angle.exe
+C:\Users\micji\OneDrive\Desktop\C#\Angle\Angle\obj\Debug\Angle.pdb

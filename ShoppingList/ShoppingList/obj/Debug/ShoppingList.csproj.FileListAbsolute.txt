@@ -1,0 +1,7 @@
+C:\Users\micji\OneDrive\Desktop\C#\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csproj.AssemblyReference.cache
+C:\Users\micji\OneDrive\Desktop\C#\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\ShoppingList\ShoppingList\bin\Debug\ShoppingList.exe.config
+C:\Users\micji\OneDrive\Desktop\C#\ShoppingList\ShoppingList\bin\Debug\ShoppingList.exe
+C:\Users\micji\OneDrive\Desktop\C#\ShoppingList\ShoppingList\bin\Debug\ShoppingList.pdb
+C:\Users\micji\OneDrive\Desktop\C#\ShoppingList\ShoppingList\obj\Debug\ShoppingList.exe
+C:\Users\micji\OneDrive\Desktop\C#\ShoppingList\ShoppingList\obj\Debug\ShoppingList.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micji\\OneDrive\\Desktop\\C#\\IncrementAndDecrement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D541DF2-6C5D-42AD-8F64-D0F382977DD1}|IncrementAndDecrement\\IncrementAndDecrement.csproj|c:\\users\\micji\\onedrive\\desktop\\c#\\incrementanddecrement\\incrementanddecrement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D541DF2-6C5D-42AD-8F64-D0F382977DD1}|IncrementAndDecrement\\IncrementAndDecrement.csproj|solutionrelative:incrementanddecrement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\C#\\IncrementAndDecrement\\IncrementAndDecrement\\Program.cs",
+              "RelativeDocumentMoniker": "IncrementAndDecrement\\Program.cs",
+              "ToolTip": "C:\\Users\\micji\\OneDrive\\Desktop\\C#\\IncrementAndDecrement\\IncrementAndDecrement\\Program.cs*",
+              "RelativeToolTip": "IncrementAndDecrement\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:40:57.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

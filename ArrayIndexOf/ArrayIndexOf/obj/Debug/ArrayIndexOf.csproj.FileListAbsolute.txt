@@ -1,0 +1,8 @@
+C:\Users\micji\OneDrive\Desktop\C#\ArrayIndexOf\ArrayIndexOf\bin\Debug\ArrayIndexOf.exe.config
+C:\Users\micji\OneDrive\Desktop\C#\ArrayIndexOf\ArrayIndexOf\bin\Debug\ArrayIndexOf.exe
+C:\Users\micji\OneDrive\Desktop\C#\ArrayIndexOf\ArrayIndexOf\bin\Debug\ArrayIndexOf.pdb
+C:\Users\micji\OneDrive\Desktop\C#\ArrayIndexOf\ArrayIndexOf\obj\Debug\ArrayIndexOf.csproj.AssemblyReference.cache
+C:\Users\micji\OneDrive\Desktop\C#\ArrayIndexOf\ArrayIndexOf\obj\Debug\ArrayIndexOf.csproj.CoreCompileInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\ArrayIndexOf\ArrayIndexOf\obj\Debug\ArrayIndexOf.exe
+C:\Users\micji\OneDrive\Desktop\C#\ArrayIndexOf\ArrayIndexOf\obj\Debug\ArrayIndexOf.pdb
+C:\Users\micji\OneDrive\Desktop\C#\ArrayIndexOf\ArrayIndexOf\obj\Debug\ArrayIndexOf.exe.config

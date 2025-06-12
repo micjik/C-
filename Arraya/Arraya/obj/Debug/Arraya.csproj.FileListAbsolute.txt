@@ -1,0 +1,8 @@
+C:\Users\micji\OneDrive\Desktop\C#\Arraya\Arraya\bin\Debug\Arraya.exe.config
+C:\Users\micji\OneDrive\Desktop\C#\Arraya\Arraya\bin\Debug\Arraya.exe
+C:\Users\micji\OneDrive\Desktop\C#\Arraya\Arraya\bin\Debug\Arraya.pdb
+C:\Users\micji\OneDrive\Desktop\C#\Arraya\Arraya\obj\Debug\Arraya.csproj.AssemblyReference.cache
+C:\Users\micji\OneDrive\Desktop\C#\Arraya\Arraya\obj\Debug\Arraya.csproj.CoreCompileInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\Arraya\Arraya\obj\Debug\Arraya.exe
+C:\Users\micji\OneDrive\Desktop\C#\Arraya\Arraya\obj\Debug\Arraya.pdb
+C:\Users\micji\OneDrive\Desktop\C#\Arraya\Arraya\obj\Debug\Arraya.exe.config

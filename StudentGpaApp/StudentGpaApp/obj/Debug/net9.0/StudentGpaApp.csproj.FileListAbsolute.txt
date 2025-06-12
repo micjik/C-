@@ -1,0 +1,15 @@
+C:\Users\micji\OneDrive\Desktop\C#\StudentGpaApp\StudentGpaApp\bin\Debug\net9.0\StudentGpaApp.exe
+C:\Users\micji\OneDrive\Desktop\C#\StudentGpaApp\StudentGpaApp\bin\Debug\net9.0\StudentGpaApp.deps.json
+C:\Users\micji\OneDrive\Desktop\C#\StudentGpaApp\StudentGpaApp\bin\Debug\net9.0\StudentGpaApp.runtimeconfig.json
+C:\Users\micji\OneDrive\Desktop\C#\StudentGpaApp\StudentGpaApp\bin\Debug\net9.0\StudentGpaApp.dll
+C:\Users\micji\OneDrive\Desktop\C#\StudentGpaApp\StudentGpaApp\bin\Debug\net9.0\StudentGpaApp.pdb
+C:\Users\micji\OneDrive\Desktop\C#\StudentGpaApp\StudentGpaApp\obj\Debug\net9.0\StudentGpaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micji\OneDrive\Desktop\C#\StudentGpaApp\StudentGpaApp\obj\Debug\net9.0\StudentGpaApp.AssemblyInfoInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\StudentGpaApp\StudentGpaApp\obj\Debug\net9.0\StudentGpaApp.AssemblyInfo.cs
+C:\Users\micji\OneDrive\Desktop\C#\StudentGpaApp\StudentGpaApp\obj\Debug\net9.0\StudentGpaApp.csproj.CoreCompileInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\StudentGpaApp\StudentGpaApp\obj\Debug\net9.0\StudentGpaApp.sourcelink.json
+C:\Users\micji\OneDrive\Desktop\C#\StudentGpaApp\StudentGpaApp\obj\Debug\net9.0\StudentGpaApp.dll
+C:\Users\micji\OneDrive\Desktop\C#\StudentGpaApp\StudentGpaApp\obj\Debug\net9.0\refint\StudentGpaApp.dll
+C:\Users\micji\OneDrive\Desktop\C#\StudentGpaApp\StudentGpaApp\obj\Debug\net9.0\StudentGpaApp.pdb
+C:\Users\micji\OneDrive\Desktop\C#\StudentGpaApp\StudentGpaApp\obj\Debug\net9.0\StudentGpaApp.genruntimeconfig.cache
+C:\Users\micji\OneDrive\Desktop\C#\StudentGpaApp\StudentGpaApp\obj\Debug\net9.0\ref\StudentGpaApp.dll

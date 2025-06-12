@@ -1,0 +1,15 @@
+C:\Users\micji\OneDrive\Desktop\C#\IncrementAndDecrement\IncrementAndDecrement\bin\Debug\net9.0\IncrementAndDecrement.exe
+C:\Users\micji\OneDrive\Desktop\C#\IncrementAndDecrement\IncrementAndDecrement\bin\Debug\net9.0\IncrementAndDecrement.deps.json
+C:\Users\micji\OneDrive\Desktop\C#\IncrementAndDecrement\IncrementAndDecrement\bin\Debug\net9.0\IncrementAndDecrement.runtimeconfig.json
+C:\Users\micji\OneDrive\Desktop\C#\IncrementAndDecrement\IncrementAndDecrement\bin\Debug\net9.0\IncrementAndDecrement.dll
+C:\Users\micji\OneDrive\Desktop\C#\IncrementAndDecrement\IncrementAndDecrement\bin\Debug\net9.0\IncrementAndDecrement.pdb
+C:\Users\micji\OneDrive\Desktop\C#\IncrementAndDecrement\IncrementAndDecrement\obj\Debug\net9.0\IncrementAndDecrement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micji\OneDrive\Desktop\C#\IncrementAndDecrement\IncrementAndDecrement\obj\Debug\net9.0\IncrementAndDecrement.AssemblyInfoInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\IncrementAndDecrement\IncrementAndDecrement\obj\Debug\net9.0\IncrementAndDecrement.AssemblyInfo.cs
+C:\Users\micji\OneDrive\Desktop\C#\IncrementAndDecrement\IncrementAndDecrement\obj\Debug\net9.0\IncrementAndDecrement.csproj.CoreCompileInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\IncrementAndDecrement\IncrementAndDecrement\obj\Debug\net9.0\IncrementAndDecrement.sourcelink.json
+C:\Users\micji\OneDrive\Desktop\C#\IncrementAndDecrement\IncrementAndDecrement\obj\Debug\net9.0\IncrementAndDecrement.dll
+C:\Users\micji\OneDrive\Desktop\C#\IncrementAndDecrement\IncrementAndDecrement\obj\Debug\net9.0\refint\IncrementAndDecrement.dll
+C:\Users\micji\OneDrive\Desktop\C#\IncrementAndDecrement\IncrementAndDecrement\obj\Debug\net9.0\IncrementAndDecrement.pdb
+C:\Users\micji\OneDrive\Desktop\C#\IncrementAndDecrement\IncrementAndDecrement\obj\Debug\net9.0\IncrementAndDecrement.genruntimeconfig.cache
+C:\Users\micji\OneDrive\Desktop\C#\IncrementAndDecrement\IncrementAndDecrement\obj\Debug\net9.0\ref\IncrementAndDecrement.dll

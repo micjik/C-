@@ -1,0 +1,8 @@
+C:\Users\micji\OneDrive\Desktop\C#\RefParameter\RefParameter\obj\Debug\RefParameter.csproj.AssemblyReference.cache
+C:\Users\micji\OneDrive\Desktop\C#\RefParameter\RefParameter\obj\Debug\RefParameter.csproj.CoreCompileInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\RefParameter\RefParameter\bin\Debug\RefParameter.exe.config
+C:\Users\micji\OneDrive\Desktop\C#\RefParameter\RefParameter\bin\Debug\RefParameter.exe
+C:\Users\micji\OneDrive\Desktop\C#\RefParameter\RefParameter\bin\Debug\RefParameter.pdb
+C:\Users\micji\OneDrive\Desktop\C#\RefParameter\RefParameter\obj\Debug\RefParameter.exe
+C:\Users\micji\OneDrive\Desktop\C#\RefParameter\RefParameter\obj\Debug\RefParameter.pdb
+C:\Users\micji\OneDrive\Desktop\C#\RefParameter\RefParameter\obj\Debug\RefParameter.exe.config
