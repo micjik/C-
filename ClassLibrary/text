@@ -1,0 +1,18 @@
+//the term state is used to describe the condition of the execution environment at a specific moment in time. As your code executes line by line, values are stored in variables. At any moment during execution, 
+//the current state of the application is the collection of all values stored in memory.
+//stateless methods are implemented so that they can work without referencing or changing any values already stored in memory.
+//Stateless methods are also known as static methods.
+//stateful methods are built in such a way that they rely on values stored
+  //in memory by previous lines of code that have already been execu
+The new operator does several important things:
+
+It first requests an address in the computer's memory large enough to store a new object based on the Random class.
+It creates the new object, and stores it at the memory address.
+It returns the memory address so that it can be saved in the dice object.
+
+When calling a stateless method, you don't need to create a new instance of its class first.
+When calling a stateful method, you need to create an instance of the class, and access the method on the object.
+Use the new operator to create a new instance of a class.
+An instance of a class is called an object.
+'parameter' refers to the variable that's being used inside the method. An 'argument' is the value that's passed when the method is called.
+Methods use a method signature to define the number of parameters that the method will accept, as well as the data type of each parameter

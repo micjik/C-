@@ -15,6 +15,9 @@ Console.WriteLine("First increment: " + value);
 value += 1;
 Console.WriteLine("Second increment: " + value);
 
+++value;
+Console.WriteLine("SecondFirst: " + value);
+
 value++;
 Console.WriteLine("Third increment: " + value);
 

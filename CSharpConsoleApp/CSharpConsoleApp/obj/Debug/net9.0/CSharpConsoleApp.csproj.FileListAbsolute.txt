@@ -1,0 +1,15 @@
+C:\Users\micji\OneDrive\Desktop\C#\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\net9.0\CSharpConsoleApp.exe
+C:\Users\micji\OneDrive\Desktop\C#\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\net9.0\CSharpConsoleApp.deps.json
+C:\Users\micji\OneDrive\Desktop\C#\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\net9.0\CSharpConsoleApp.runtimeconfig.json
+C:\Users\micji\OneDrive\Desktop\C#\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\net9.0\CSharpConsoleApp.dll
+C:\Users\micji\OneDrive\Desktop\C#\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\net9.0\CSharpConsoleApp.pdb
+C:\Users\micji\OneDrive\Desktop\C#\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\net9.0\CSharpConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micji\OneDrive\Desktop\C#\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\net9.0\CSharpConsoleApp.AssemblyInfoInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\net9.0\CSharpConsoleApp.AssemblyInfo.cs
+C:\Users\micji\OneDrive\Desktop\C#\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\net9.0\CSharpConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\net9.0\CSharpConsoleApp.sourcelink.json
+C:\Users\micji\OneDrive\Desktop\C#\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\net9.0\CSharpConsoleApp.dll
+C:\Users\micji\OneDrive\Desktop\C#\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\net9.0\refint\CSharpConsoleApp.dll
+C:\Users\micji\OneDrive\Desktop\C#\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\net9.0\CSharpConsoleApp.pdb
+C:\Users\micji\OneDrive\Desktop\C#\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\net9.0\CSharpConsoleApp.genruntimeconfig.cache
+C:\Users\micji\OneDrive\Desktop\C#\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\net9.0\ref\CSharpConsoleApp.dll

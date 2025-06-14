@@ -1,0 +1,15 @@
+C:\Users\micji\OneDrive\Desktop\C#\ClassLibrary\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.exe
+C:\Users\micji\OneDrive\Desktop\C#\ClassLibrary\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.deps.json
+C:\Users\micji\OneDrive\Desktop\C#\ClassLibrary\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.runtimeconfig.json
+C:\Users\micji\OneDrive\Desktop\C#\ClassLibrary\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.dll
+C:\Users\micji\OneDrive\Desktop\C#\ClassLibrary\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.pdb
+C:\Users\micji\OneDrive\Desktop\C#\ClassLibrary\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micji\OneDrive\Desktop\C#\ClassLibrary\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\ClassLibrary\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+C:\Users\micji\OneDrive\Desktop\C#\ClassLibrary\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\ClassLibrary\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.sourcelink.json
+C:\Users\micji\OneDrive\Desktop\C#\ClassLibrary\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.dll
+C:\Users\micji\OneDrive\Desktop\C#\ClassLibrary\CsharpProjects\TestProject\obj\Debug\net9.0\refint\TestProject.dll
+C:\Users\micji\OneDrive\Desktop\C#\ClassLibrary\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.pdb
+C:\Users\micji\OneDrive\Desktop\C#\ClassLibrary\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+C:\Users\micji\OneDrive\Desktop\C#\ClassLibrary\CsharpProjects\TestProject\obj\Debug\net9.0\ref\TestProject.dll
