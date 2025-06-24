@@ -1,0 +1,15 @@
+C:\Users\micji\OneDrive\Desktop\C#\AdditionApp\AdditionApp\bin\Debug\net9.0\AdditionApp.exe
+C:\Users\micji\OneDrive\Desktop\C#\AdditionApp\AdditionApp\bin\Debug\net9.0\AdditionApp.deps.json
+C:\Users\micji\OneDrive\Desktop\C#\AdditionApp\AdditionApp\bin\Debug\net9.0\AdditionApp.runtimeconfig.json
+C:\Users\micji\OneDrive\Desktop\C#\AdditionApp\AdditionApp\bin\Debug\net9.0\AdditionApp.dll
+C:\Users\micji\OneDrive\Desktop\C#\AdditionApp\AdditionApp\bin\Debug\net9.0\AdditionApp.pdb
+C:\Users\micji\OneDrive\Desktop\C#\AdditionApp\AdditionApp\obj\Debug\net9.0\AdditionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micji\OneDrive\Desktop\C#\AdditionApp\AdditionApp\obj\Debug\net9.0\AdditionApp.AssemblyInfoInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\AdditionApp\AdditionApp\obj\Debug\net9.0\AdditionApp.AssemblyInfo.cs
+C:\Users\micji\OneDrive\Desktop\C#\AdditionApp\AdditionApp\obj\Debug\net9.0\AdditionApp.csproj.CoreCompileInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\AdditionApp\AdditionApp\obj\Debug\net9.0\AdditionApp.sourcelink.json
+C:\Users\micji\OneDrive\Desktop\C#\AdditionApp\AdditionApp\obj\Debug\net9.0\AdditionApp.dll
+C:\Users\micji\OneDrive\Desktop\C#\AdditionApp\AdditionApp\obj\Debug\net9.0\refint\AdditionApp.dll
+C:\Users\micji\OneDrive\Desktop\C#\AdditionApp\AdditionApp\obj\Debug\net9.0\AdditionApp.pdb
+C:\Users\micji\OneDrive\Desktop\C#\AdditionApp\AdditionApp\obj\Debug\net9.0\AdditionApp.genruntimeconfig.cache
+C:\Users\micji\OneDrive\Desktop\C#\AdditionApp\AdditionApp\obj\Debug\net9.0\ref\AdditionApp.dll

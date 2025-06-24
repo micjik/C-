@@ -1,0 +1,15 @@
+C:\Users\micji\OneDrive\Desktop\C#\Exercise101\Exercise101\bin\Debug\net9.0\Exercise101.exe
+C:\Users\micji\OneDrive\Desktop\C#\Exercise101\Exercise101\bin\Debug\net9.0\Exercise101.deps.json
+C:\Users\micji\OneDrive\Desktop\C#\Exercise101\Exercise101\bin\Debug\net9.0\Exercise101.runtimeconfig.json
+C:\Users\micji\OneDrive\Desktop\C#\Exercise101\Exercise101\bin\Debug\net9.0\Exercise101.dll
+C:\Users\micji\OneDrive\Desktop\C#\Exercise101\Exercise101\bin\Debug\net9.0\Exercise101.pdb
+C:\Users\micji\OneDrive\Desktop\C#\Exercise101\Exercise101\obj\Debug\net9.0\Exercise101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micji\OneDrive\Desktop\C#\Exercise101\Exercise101\obj\Debug\net9.0\Exercise101.AssemblyInfoInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\Exercise101\Exercise101\obj\Debug\net9.0\Exercise101.AssemblyInfo.cs
+C:\Users\micji\OneDrive\Desktop\C#\Exercise101\Exercise101\obj\Debug\net9.0\Exercise101.csproj.CoreCompileInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\Exercise101\Exercise101\obj\Debug\net9.0\Exercise101.sourcelink.json
+C:\Users\micji\OneDrive\Desktop\C#\Exercise101\Exercise101\obj\Debug\net9.0\Exercise101.dll
+C:\Users\micji\OneDrive\Desktop\C#\Exercise101\Exercise101\obj\Debug\net9.0\refint\Exercise101.dll
+C:\Users\micji\OneDrive\Desktop\C#\Exercise101\Exercise101\obj\Debug\net9.0\Exercise101.pdb
+C:\Users\micji\OneDrive\Desktop\C#\Exercise101\Exercise101\obj\Debug\net9.0\Exercise101.genruntimeconfig.cache
+C:\Users\micji\OneDrive\Desktop\C#\Exercise101\Exercise101\obj\Debug\net9.0\ref\Exercise101.dll

@@ -1,0 +1,15 @@
+C:\Users\micji\OneDrive\Desktop\C#\SimpleDice\SimpleDice\bin\Debug\net9.0\SimpleDice.exe
+C:\Users\micji\OneDrive\Desktop\C#\SimpleDice\SimpleDice\bin\Debug\net9.0\SimpleDice.deps.json
+C:\Users\micji\OneDrive\Desktop\C#\SimpleDice\SimpleDice\bin\Debug\net9.0\SimpleDice.runtimeconfig.json
+C:\Users\micji\OneDrive\Desktop\C#\SimpleDice\SimpleDice\bin\Debug\net9.0\SimpleDice.dll
+C:\Users\micji\OneDrive\Desktop\C#\SimpleDice\SimpleDice\bin\Debug\net9.0\SimpleDice.pdb
+C:\Users\micji\OneDrive\Desktop\C#\SimpleDice\SimpleDice\obj\Debug\net9.0\SimpleDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micji\OneDrive\Desktop\C#\SimpleDice\SimpleDice\obj\Debug\net9.0\SimpleDice.AssemblyInfoInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\SimpleDice\SimpleDice\obj\Debug\net9.0\SimpleDice.AssemblyInfo.cs
+C:\Users\micji\OneDrive\Desktop\C#\SimpleDice\SimpleDice\obj\Debug\net9.0\SimpleDice.csproj.CoreCompileInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\SimpleDice\SimpleDice\obj\Debug\net9.0\SimpleDice.sourcelink.json
+C:\Users\micji\OneDrive\Desktop\C#\SimpleDice\SimpleDice\obj\Debug\net9.0\SimpleDice.dll
+C:\Users\micji\OneDrive\Desktop\C#\SimpleDice\SimpleDice\obj\Debug\net9.0\refint\SimpleDice.dll
+C:\Users\micji\OneDrive\Desktop\C#\SimpleDice\SimpleDice\obj\Debug\net9.0\SimpleDice.pdb
+C:\Users\micji\OneDrive\Desktop\C#\SimpleDice\SimpleDice\obj\Debug\net9.0\SimpleDice.genruntimeconfig.cache
+C:\Users\micji\OneDrive\Desktop\C#\SimpleDice\SimpleDice\obj\Debug\net9.0\ref\SimpleDice.dll

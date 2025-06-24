@@ -1,0 +1,5 @@
+C:\Users\micji\OneDrive\Desktop\C#\Exercise\Exercise101\obj\Debug\net9.0\Exercise101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micji\OneDrive\Desktop\C#\Exercise\Exercise101\obj\Debug\net9.0\Exercise101.AssemblyInfoInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\Exercise\Exercise101\obj\Debug\net9.0\Exercise101.AssemblyInfo.cs
+C:\Users\micji\OneDrive\Desktop\C#\Exercise\Exercise101\obj\Debug\net9.0\Exercise101.csproj.CoreCompileInputs.cache
+C:\Users\micji\OneDrive\Desktop\C#\Exercise\Exercise101\obj\Debug\net9.0\Exercise101.sourcelink.json
